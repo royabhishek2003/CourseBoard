@@ -2,7 +2,8 @@
 
 **A clean, responsive React UI to explore top learning courses.**
 
-![screenshot](/mnt/data/dfc2480f-42ae-4331-9e5b-dc0bc937eeca.png)
+![screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e93dd42-c0dc-4a30-90a7-c8e8ae6d6ddd" />
+)
 
 ---
 
